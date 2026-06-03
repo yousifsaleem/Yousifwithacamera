@@ -1,0 +1,2126 @@
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+ReactDOM.preload(): Expected two arguments, a non-empty `href` string and an `options` object with an `as` property valid for a `<link rel="preload" as="..." />` tag. The `href` argument encountered was an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  2 | import { Footer } from "@/components/Footer";
+  3 | import { Header } from "@/components/Header";
+> 4 | import { Loader } from "@/components/Loader";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import { ScrollCarousel } from "@/components/ScrollCarousel";
+  6 |
+  7 | export default function Home() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./app/page.tsx:4:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./app/page.tsx:4:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+ReactDOM.preload(): Expected two arguments, a non-empty `href` string and an `options` object with an `as` property valid for a `<link rel="preload" as="..." />` tag. The `href` argument encountered was an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+ReactDOM.preload(): Expected two arguments, a non-empty `href` string and an `options` object with an `as` property valid for a `<link rel="preload" as="..." />` tag. The `href` argument encountered was an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] ReactDOM.preload(): Expected two arguments, a non-empty `href` string and an `options` object with an `as` property valid for a `<link rel="preload" as="..." />` tag. The `href` argument encountered was an empty string. 
+[browser] ReactDOM.preload(): Expected two arguments, a non-empty `href` string and an `options` object with an `as` property valid for a `<link rel="preload" as="..." />` tag. The `href` argument encountered was an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+   8 | import { Pagination } from "./Pagination";
+   9 | import { ProjectDetail } from "./ProjectDetail";
+> 10 | import { ProjectMeta } from "./ProjectMeta";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 | import { ProjectsOverview } from "./ProjectsOverview";
+  12 |
+  13 | type Metrics = {
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectDetail[0m } [36mfrom[0m [32m"./ProjectDetail"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mtype[0m [33mMetrics[0m = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+   8 | import { Pagination } from "./Pagination";
+   9 | import { ProjectDetail } from "./ProjectDetail";
+> 10 | import { ProjectMeta } from "./ProjectMeta";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 | import { ProjectsOverview } from "./ProjectsOverview";
+  12 |
+  13 | type Metrics = {
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./components/ScrollCarousel.tsx:10:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./components/ScrollCarousel.tsx:10:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+   8 | import { Pagination } from "./Pagination";
+   9 | import { ProjectDetail } from "./ProjectDetail";
+> 10 | import { ProjectMeta } from "./ProjectMeta";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 | import { ProjectsOverview } from "./ProjectsOverview";
+  12 |
+  13 | type Metrics = {
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectMeta'
+   8 | import { Pagination } from "./Pagination";
+   9 | import { ProjectDetail } from "./ProjectDetail";
+> 10 | import { ProjectMeta } from "./ProjectMeta";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 | import { ProjectsOverview } from "./ProjectsOverview";
+  12 |
+  13 | type Metrics = {
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image with src "/images/work-05.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+   8 | import { Pagination } from "./Pagination";
+   9 | import { ProjectMeta } from "./ProjectMeta";
+> 10 | import { ProjectsOverview } from "./ProjectsOverview";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | type Metrics = {
+  13 |   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./components/ScrollCarousel.tsx:10:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./components/ScrollCarousel.tsx:10:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+   8 | import { Pagination } from "./Pagination";
+   9 | import { ProjectMeta } from "./ProjectMeta";
+> 10 | import { ProjectsOverview } from "./ProjectsOverview";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | type Metrics = {
+  13 |   wide: number;
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+   8 | import { Pagination } from "./Pagination";
+   9 | import { ProjectMeta } from "./ProjectMeta";
+> 10 | import { ProjectsOverview } from "./ProjectsOverview";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | type Metrics = {
+  13 |   wide: number;
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+⨯ ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+  [90m 8 |[0m [36mimport[0m { [33mPagination[0m } [36mfrom[0m [32m"./Pagination"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mProjectMeta[0m } [36mfrom[0m [32m"./ProjectMeta"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { [33mProjectsOverview[0m } [36mfrom[0m [32m"./ProjectsOverview"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m
+  [90m12 |[0m [36mtype[0m [33mMetrics[0m = {
+  [90m13 |[0m   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+   8 | import { Pagination } from "./Pagination";
+   9 | import { ProjectMeta } from "./ProjectMeta";
+> 10 | import { ProjectsOverview } from "./ProjectsOverview";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | type Metrics = {
+  13 |   wide: number;
+
+
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./components/ScrollCarousel.tsx:10:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./components/ScrollCarousel.tsx:10:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+   8 | import { Pagination } from "./Pagination";
+   9 | import { ProjectMeta } from "./ProjectMeta";
+> 10 | import { ProjectsOverview } from "./ProjectsOverview";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | type Metrics = {
+  13 |   wide: number;
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./components/ScrollCarousel.tsx:10:1
+Module not found: Can't resolve './ProjectsOverview'
+   8 | import { Pagination } from "./Pagination";
+   9 | import { ProjectMeta } from "./ProjectMeta";
+> 10 | import { ProjectsOverview } from "./ProjectsOverview";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | type Metrics = {
+  13 |   wide: number;
+
+Import trace:
+  Server Component:
+    ./components/ScrollCarousel.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+⨯ ./app/editthesite/page.tsx:5:1
+Module not found: Can't resolve './AdminEditor'
+  [90m3 |[0m [36mimport[0m { projects } [36mfrom[0m [32m"@/src/data/projects"[0m;
+  [90m4 |[0m [36mimport[0m { siteInfo } [36mfrom[0m [32m"@/src/data/site"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mAdminEditor[0m } [36mfrom[0m [32m"./AdminEditor"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m
+  [90m7 |[0m [36masync[0m [36mfunction[0m unlockEditor(formData: [33mFormData[0m) {
+  [90m8 |[0m   [32m"use server"[0m;
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/editthesite/page.tsx:5:1
+Module not found: Can't resolve './AdminEditor'
+  [90m3 |[0m [36mimport[0m { projects } [36mfrom[0m [32m"@/src/data/projects"[0m;
+  [90m4 |[0m [36mimport[0m { siteInfo } [36mfrom[0m [32m"@/src/data/site"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mAdminEditor[0m } [36mfrom[0m [32m"./AdminEditor"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m
+  [90m7 |[0m [36masync[0m [36mfunction[0m unlockEditor(formData: [33mFormData[0m) {
+  [90m8 |[0m   [32m"use server"[0m;
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/editthesite/page.tsx:5:1
+Module not found: Can't resolve './AdminEditor'
+  [90m3 |[0m [36mimport[0m { projects } [36mfrom[0m [32m"@/src/data/projects"[0m;
+  [90m4 |[0m [36mimport[0m { siteInfo } [36mfrom[0m [32m"@/src/data/site"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mAdminEditor[0m } [36mfrom[0m [32m"./AdminEditor"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m
+  [90m7 |[0m [36masync[0m [36mfunction[0m unlockEditor(formData: [33mFormData[0m) {
+  [90m8 |[0m   [32m"use server"[0m;
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/editthesite/page.tsx:5:1
+Module not found: Can't resolve './AdminEditor'
+  [90m3 |[0m [36mimport[0m { projects } [36mfrom[0m [32m"@/src/data/projects"[0m;
+  [90m4 |[0m [36mimport[0m { siteInfo } [36mfrom[0m [32m"@/src/data/site"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mAdminEditor[0m } [36mfrom[0m [32m"./AdminEditor"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m
+  [90m7 |[0m [36masync[0m [36mfunction[0m unlockEditor(formData: [33mFormData[0m) {
+  [90m8 |[0m   [32m"use server"[0m;
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: ./app/editthesite/page.tsx:5:1
+Module not found: Can't resolve './AdminEditor'
+  3 | import { projects } from "@/src/data/projects";
+  4 | import { siteInfo } from "@/src/data/site";
+> 5 | import { AdminEditor } from "./AdminEditor";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | async function unlockEditor(formData: FormData) {
+  8 |   "use server";
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./app/editthesite/page.tsx:5:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./app/editthesite/page.tsx:5:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] ./app/editthesite/page.tsx:5:1
+Module not found: Can't resolve './AdminEditor'
+  3 | import { projects } from "@/src/data/projects";
+  4 | import { siteInfo } from "@/src/data/site";
+> 5 | import { AdminEditor } from "./AdminEditor";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | async function unlockEditor(formData: FormData) {
+  8 |   "use server";
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./app/editthesite/page.tsx:5:1
+Module not found: Can't resolve './AdminEditor'
+  3 | import { projects } from "@/src/data/projects";
+  4 | import { siteInfo } from "@/src/data/site";
+> 5 | import { AdminEditor } from "./AdminEditor";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | async function unlockEditor(formData: FormData) {
+  8 |   "use server";
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] Uncaught Error: ./app/editthesite/page.tsx:5:1
+Module not found: Can't resolve './AdminEditor'
+  3 | import { projects } from "@/src/data/projects";
+  4 | import { siteInfo } from "@/src/data/site";
+> 5 | import { AdminEditor } from "./AdminEditor";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | async function unlockEditor(formData: FormData) {
+  8 |   "use server";
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./app/editthesite/page.tsx:5:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./app/editthesite/page.tsx:5:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] ./app/editthesite/page.tsx:5:1
+Module not found: Can't resolve './AdminEditor'
+  3 | import { projects } from "@/src/data/projects";
+  4 | import { siteInfo } from "@/src/data/site";
+> 5 | import { AdminEditor } from "./AdminEditor";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | async function unlockEditor(formData: FormData) {
+  8 |   "use server";
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./app/editthesite/page.tsx:5:1
+Module not found: Can't resolve './AdminEditor'
+  3 | import { projects } from "@/src/data/projects";
+  4 | import { siteInfo } from "@/src/data/site";
+> 5 | import { AdminEditor } from "./AdminEditor";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | async function unlockEditor(formData: FormData) {
+  8 |   "use server";
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] The final argument passed to useEffect changed size between renders. The order and size of this array must remain constant.
+
+Previous: []
+Incoming: [[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]] 
+    at AdminEditor (app/editthesite/AdminEditor.tsx:66:12)
+    at Set.forEach (<anonymous>)
+  64 |   const exportedJson = useMemo(() => JSON.stringify(exportData, null, 2), [exportData]);
+  65 |
+> 66 |   useEffect(() => {
+     |            ^
+  67 |     const timer = window.setTimeout(() => {
+  68 |       const savedDraft = window.localStorage.getItem(storageKey);
+  69 | (app/editthesite/AdminEditor.tsx:66:12)
+⨯ ./src/data/site.ts:1:25
+Expected ',', got ':'
+[31m[1m>[0m [90m1 |[0m [36mexport[0m [36mtype[0m { [32m"siteInfo"[0m: {
+  [90m  |[0m                         [31m[1m^[0m
+  [90m2 |[0m     [32m"photographerName"[0m: [32m"Yousif Saleem"[0m,
+  [90m3 |[0m     [32m"brandName"[0m: [32m"YS Photography"[0m,
+  [90m4 |[0m     [32m"location"[0m: [32m"Dundee"[0m,
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./app/editthesite/page.tsx
+
+
+⨯ ./src/data/site.ts:1:25
+Expected ',', got ':'
+[31m[1m>[0m [90m1 |[0m [36mexport[0m [36mtype[0m { [32m"siteInfo"[0m: {
+  [90m  |[0m                         [31m[1m^[0m
+  [90m2 |[0m     [32m"photographerName"[0m: [32m"Yousif Saleem"[0m,
+  [90m3 |[0m     [32m"brandName"[0m: [32m"YS Photography"[0m,
+  [90m4 |[0m     [32m"location"[0m: [32m"Dundee"[0m,
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./app/editthesite/page.tsx
+
+
+⨯ ./src/data/site.ts:1:25
+Expected ',', got ':'
+[31m[1m>[0m [90m1 |[0m [36mexport[0m [36mtype[0m { [32m"siteInfo"[0m: {
+  [90m  |[0m                         [31m[1m^[0m
+  [90m2 |[0m     [32m"photographerName"[0m: [32m"Yousif Saleem"[0m,
+  [90m3 |[0m     [32m"brandName"[0m: [32m"YS Photography"[0m,
+  [90m4 |[0m     [32m"location"[0m: [32m"Dundee"[0m,
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./app/editthesite/page.tsx
+
+
+⨯ ./src/data/site.ts:1:25
+Expected ',', got ':'
+[31m[1m>[0m [90m1 |[0m [36mexport[0m [36mtype[0m { [32m"siteInfo"[0m: {
+  [90m  |[0m                         [31m[1m^[0m
+  [90m2 |[0m     [32m"photographerName"[0m: [32m"Yousif Saleem"[0m,
+  [90m3 |[0m     [32m"brandName"[0m: [32m"YS Photography"[0m,
+  [90m4 |[0m     [32m"location"[0m: [32m"Dundee"[0m,
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./app/editthesite/page.tsx
+
+
+[browser] Uncaught Error: ./src/data/site.ts:1:25
+Expected ',', got ':'
+> 1 | export type { "siteInfo": {
+    |                         ^
+  2 |     "photographerName": "Yousif Saleem",
+  3 |     "brandName": "YS Photography",
+  4 |     "location": "Dundee",
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./app/editthesite/page.tsx
+
+
+    at <unknown> (Error: ./src/data/site.ts:1:25)
+    at <unknown> (Error: (./src/data/site.ts:1:25)
+[browser] ./src/data/site.ts:1:25
+Expected ',', got ':'
+> 1 | export type { "siteInfo": {
+    |                         ^
+  2 |     "photographerName": "Yousif Saleem",
+  3 |     "brandName": "YS Photography",
+  4 |     "location": "Dundee",
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./app/editthesite/page.tsx 
+[browser] ./src/data/site.ts:1:25
+Expected ',', got ':'
+> 1 | export type { "siteInfo": {
+    |                         ^
+  2 |     "photographerName": "Yousif Saleem",
+  3 |     "brandName": "YS Photography",
+  4 |     "location": "Dundee",
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./components/Header.tsx
+    ./app/page.tsx 
+[browser] ./src/data/site.ts:1:25
+Expected ',', got ':'
+> 1 | export type { "siteInfo": {
+    |                         ^
+  2 |     "photographerName": "Yousif Saleem",
+  3 |     "brandName": "YS Photography",
+  4 |     "location": "Dundee",
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./components/Header.tsx
+    ./app/work/[slug]/page.tsx 
+[browser] ./src/data/site.ts:1:25
+Expected ',', got ':'
+> 1 | export type { "siteInfo": {
+    |                         ^
+  2 |     "photographerName": "Yousif Saleem",
+  3 |     "brandName": "YS Photography",
+  4 |     "location": "Dundee",
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./app/editthesite/page.tsx 
+⨯ ./src/data/site.ts:2:15
+Unexpected token `{`. Expected identifier or string
+  [90m1 |[0m [36mexport[0m [36mtype[0m {
+[31m[1m>[0m [90m2 |[0m   [32m"siteInfo"[0m, {
+  [90m  |[0m               [31m[1m^[0m
+  [90m3 |[0m     [32m"photographerName"[0m: [32m"Yousif Saleem"[0m,
+  [90m4 |[0m     [32m"brandName"[0m: [32m"YS Photography"[0m,
+  [90m5 |[0m     [32m"location"[0m: [32m"Dundee"[0m,
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./app/editthesite/page.tsx
+
+
+[browser] Uncaught Error: ./src/data/site.ts:2:15
+Unexpected token `{`. Expected identifier or string
+  1 | export type {
+> 2 |   "siteInfo", {
+    |               ^
+  3 |     "photographerName": "Yousif Saleem",
+  4 |     "brandName": "YS Photography",
+  5 |     "location": "Dundee",
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./app/editthesite/page.tsx
+
+
+    at <unknown> (Error: ./src/data/site.ts:2:15)
+    at <unknown> (Error: (./src/data/site.ts:2:15)
+[browser] ./src/data/site.ts:2:15
+Unexpected token `{`. Expected identifier or string
+  1 | export type {
+> 2 |   "siteInfo", {
+    |               ^
+  3 |     "photographerName": "Yousif Saleem",
+  4 |     "brandName": "YS Photography",
+  5 |     "location": "Dundee",
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./app/editthesite/page.tsx 
+[browser] ./src/data/site.ts:2:15
+Unexpected token `{`. Expected identifier or string
+  1 | export type {
+> 2 |   "siteInfo", {
+    |               ^
+  3 |     "photographerName": "Yousif Saleem",
+  4 |     "brandName": "YS Photography",
+  5 |     "location": "Dundee",
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./components/Header.tsx
+    ./app/page.tsx 
+[browser] ./src/data/site.ts:2:15
+Unexpected token `{`. Expected identifier or string
+  1 | export type {
+> 2 |   "siteInfo", {
+    |               ^
+  3 |     "photographerName": "Yousif Saleem",
+  4 |     "brandName": "YS Photography",
+  5 |     "location": "Dundee",
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./components/Header.tsx
+    ./app/work/[slug]/page.tsx 
+[browser] ./src/data/site.ts:2:15
+Unexpected token `{`. Expected identifier or string
+  1 | export type {
+> 2 |   "siteInfo", {
+    |               ^
+  3 |     "photographerName": "Yousif Saleem",
+  4 |     "brandName": "YS Photography",
+  5 |     "location": "Dundee",
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/data/site.ts
+    ./app/editthesite/page.tsx 
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior

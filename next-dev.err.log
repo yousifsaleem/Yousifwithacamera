@@ -1,0 +1,1320 @@
+[browser] Image with src "/images/work-01.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[browser] Image with src "/images/work-01.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mHome[0m() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/Loader'
+  2 | import { Footer } from "@/components/Footer";
+  3 | import { Header } from "@/components/Header";
+> 4 | import { Loader } from "@/components/Loader";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import { ScrollCarousel } from "@/components/ScrollCarousel";
+  6 |
+  7 | export default function Home() {
+
+Import map: aliased to relative './components/Loader' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./app/page.tsx:4:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./app/page.tsx:4:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] Image with src "/images/work-01.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/work/[slug]/page.tsx:4:1
+Module not found: Can't resolve '@/components/Header'
+  [90m2 |[0m [36mimport[0m { notFound } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m3 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mPageReveal[0m } [36mfrom[0m [32m"@/components/PageReveal"[0m;
+  [90m6 |[0m [36mimport[0m { [33mProjectPageView[0m } [36mfrom[0m [32m"@/components/ProjectPageView"[0m;
+  [90m7 |[0m [36mimport[0m { projects } [36mfrom[0m [32m"@/src/data/projects"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/work/[slug]/page.tsx:4:1
+Module not found: Can't resolve '@/components/Header'
+  [90m2 |[0m [36mimport[0m { notFound } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m3 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mPageReveal[0m } [36mfrom[0m [32m"@/components/PageReveal"[0m;
+  [90m6 |[0m [36mimport[0m { [33mProjectPageView[0m } [36mfrom[0m [32m"@/components/ProjectPageView"[0m;
+  [90m7 |[0m [36mimport[0m { projects } [36mfrom[0m [32m"@/src/data/projects"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  1 | import { AboutSection } from "@/components/AboutSection";
+  2 | import { Footer } from "@/components/Footer";
+> 3 | import { Header } from "@/components/Header";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { Loader } from "@/components/Loader";
+  5 | import { ScrollCarousel } from "@/components/ScrollCarousel";
+  6 |
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./app/work/[slug]/page.tsx:4:1
+Module not found: Can't resolve '@/components/Header'
+  2 | import { notFound } from "next/navigation";
+  3 | import { Footer } from "@/components/Footer";
+> 4 | import { Header } from "@/components/Header";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import { PageReveal } from "@/components/PageReveal";
+  6 | import { ProjectPageView } from "@/components/ProjectPageView";
+  7 | import { projects } from "@/src/data/projects";
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  1 | import { AboutSection } from "@/components/AboutSection";
+  2 | import { Footer } from "@/components/Footer";
+> 3 | import { Header } from "@/components/Header";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { Loader } from "@/components/Loader";
+  5 | import { ScrollCarousel } from "@/components/ScrollCarousel";
+  6 |
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./app/work/[slug]/page.tsx:4:1
+Module not found: Can't resolve '@/components/Header'
+  2 | import { notFound } from "next/navigation";
+  3 | import { Footer } from "@/components/Footer";
+> 4 | import { Header } from "@/components/Header";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import { PageReveal } from "@/components/PageReveal";
+  6 | import { ProjectPageView } from "@/components/ProjectPageView";
+  7 | import { projects } from "@/src/data/projects";
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] Image with src "/images/work-01.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[browser] Image with src "/images/work-01.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[browser] Image with src "/images/work-01.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+⨯ ./app/work/[slug]/page.tsx:4:1
+Module not found: Can't resolve '@/components/Header'
+  [90m2 |[0m [36mimport[0m { notFound } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m3 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mPageReveal[0m } [36mfrom[0m [32m"@/components/PageReveal"[0m;
+  [90m6 |[0m [36mimport[0m { [33mProjectPageView[0m } [36mfrom[0m [32m"@/components/ProjectPageView"[0m;
+  [90m7 |[0m [36mimport[0m { projects } [36mfrom[0m [32m"@/src/data/projects"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/work/[slug]/page.tsx:4:1
+Module not found: Can't resolve '@/components/Header'
+  [90m2 |[0m [36mimport[0m { notFound } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m3 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mPageReveal[0m } [36mfrom[0m [32m"@/components/PageReveal"[0m;
+  [90m6 |[0m [36mimport[0m { [33mProjectPageView[0m } [36mfrom[0m [32m"@/components/ProjectPageView"[0m;
+  [90m7 |[0m [36mimport[0m { projects } [36mfrom[0m [32m"@/src/data/projects"[0m;
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  [90m1 |[0m [36mimport[0m { [33mAboutSection[0m } [36mfrom[0m [32m"@/components/AboutSection"[0m;
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m5 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m6 |[0m
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: ./app/page.tsx:3:1
+Module not found: Can't resolve '@/components/Header'
+  1 | import { AboutSection } from "@/components/AboutSection";
+  2 | import { Footer } from "@/components/Footer";
+> 3 | import { Header } from "@/components/Header";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { Loader } from "@/components/Loader";
+  5 | import { ScrollCarousel } from "@/components/ScrollCarousel";
+  6 |
+
+Import map: aliased to relative './components/Header' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./app/page.tsx:3:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./app/page.tsx:3:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] Image with src "/images/work-01.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[browser] Image with src "/images/work-01.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[browser] Image with src "/images/work-01.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  2 | import { Footer } from "@/components/Footer";
+  3 | import { Header } from "@/components/Header";
+> 4 | import { LayoutGuides } from "@/components/LayoutGuides";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import { Loader } from "@/components/Loader";
+  6 | import { ScrollCarousel } from "@/components/ScrollCarousel";
+  7 |
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  [90m2 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/Footer"[0m;
+  [90m3 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/Header"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { [33mLayoutGuides[0m } [36mfrom[0m [32m"@/components/LayoutGuides"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m { [33mLoader[0m } [36mfrom[0m [32m"@/components/Loader"[0m;
+  [90m6 |[0m [36mimport[0m { [33mScrollCarousel[0m } [36mfrom[0m [32m"@/components/ScrollCarousel"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] Uncaught Error: ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  2 | import { Footer } from "@/components/Footer";
+  3 | import { Header } from "@/components/Header";
+> 4 | import { LayoutGuides } from "@/components/LayoutGuides";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import { Loader } from "@/components/Loader";
+  6 | import { ScrollCarousel } from "@/components/ScrollCarousel";
+  7 |
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./app/page.tsx:4:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (Error: (./app/page.tsx:4:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+[browser] ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  2 | import { Footer } from "@/components/Footer";
+  3 | import { Header } from "@/components/Header";
+> 4 | import { LayoutGuides } from "@/components/LayoutGuides";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import { Loader } from "@/components/Loader";
+  6 | import { ScrollCarousel } from "@/components/ScrollCarousel";
+  7 |
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  2 | import { Footer } from "@/components/Footer";
+  3 | import { Header } from "@/components/Header";
+> 4 | import { LayoutGuides } from "@/components/LayoutGuides";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import { Loader } from "@/components/Loader";
+  6 | import { ScrollCarousel } from "@/components/ScrollCarousel";
+  7 |
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./app/page.tsx:4:1
+Module not found: Can't resolve '@/components/LayoutGuides'
+  2 | import { Footer } from "@/components/Footer";
+  3 | import { Header } from "@/components/Header";
+> 4 | import { LayoutGuides } from "@/components/LayoutGuides";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import { Loader } from "@/components/Loader";
+  6 | import { ScrollCarousel } from "@/components/ScrollCarousel";
+  7 |
+
+Import map: aliased to relative './components/LayoutGuides' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] Image with src "/images/work-01.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
